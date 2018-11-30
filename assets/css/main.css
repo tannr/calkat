@@ -3910,7 +3910,7 @@ input, select, textarea {
 			}
 
 				#wrapper > .main > header.accent2 input, #wrapper > .main > header.accent2 select, #wrapper > .main > header.accent2 textarea {
-					color: #ffffff;
+					color: #000000;
 				}
 
 				#wrapper > .main > header.accent2 a {
@@ -4422,7 +4422,7 @@ input, select, textarea {
 
 		#wrapper > .main.accent2 {
 			background-color: #fcdc3f;
-			color: rgba(255, 255, 255, 0.75);
+			color: #3b3b3b;
 		}
 
 			#wrapper > .main.accent2 input, #wrapper > .main.accent2 select, #wrapper > .main.accent2 textarea {
@@ -4438,7 +4438,7 @@ input, select, textarea {
 			}
 
 			#wrapper > .main.accent2 h1, #wrapper > .main.accent2 h2, #wrapper > .main.accent2 h3, #wrapper > .main.accent2 h4, #wrapper > .main.accent2 h5, #wrapper > .main.accent2 h6 {
-				color: #ffffff;
+				color: ##3b3b3b;
 			}
 
 			#wrapper > .main.accent2 blockquote {
