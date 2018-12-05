@@ -3215,6 +3215,11 @@ input, select, textarea {
 			right: 0;
 		}
 
+		#header > img > #logo {
+			max-width:100%;
+			height:auto;
+		}
+
 			#header > nav > ul {
 				list-style: none;
 				padding: 0;
